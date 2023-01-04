@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/BoltKit_ThirdPerson/Scenes/GUI.unity
-    guid: 6199914e3f8138f49a134580ec3c57e5
-  - enabled: 1
     path: Assets/BoltKit_ThirdPerson/Scenes/Level01.unity
     guid: 936f7babf7a2b3248b47cb8b34e7bfd3
   - enabled: 1
@@ -17,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BoltKit_ThirdPerson/Scenes/Level03.unity
     guid: 1970997d4d86d4848a1c6bee7a85b323
+  - enabled: 1
+    path: Assets/BoltKit_ThirdPerson/Scenes/GUI.unity
+    guid: 6199914e3f8138f49a134580ec3c57e5
   m_configObjects: {}
