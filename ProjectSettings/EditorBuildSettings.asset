@@ -18,3 +18,4 @@ EditorBuildSettings:
     path: Assets/BoltKit_ThirdPerson/Scenes/GUI.unity
     guid: 6199914e3f8138f49a134580ec3c57e5
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
