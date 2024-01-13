@@ -11,6 +11,8 @@ public class MenuNavigation : MonoBehaviour
 
         void Start()
         {
+            Cursor.visible = true;
+            Screen.lockCursor = false;
             EventSystem.current.SetSelectedGameObject(null);
         }
 
