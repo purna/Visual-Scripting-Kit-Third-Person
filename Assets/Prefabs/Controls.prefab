@@ -88,7 +88,6 @@ GameObject:
   - component: {fileID: 3978488355811331747}
   - component: {fileID: 7072422243262920228}
   - component: {fileID: 1406103944617567315}
-  - component: {fileID: 2888755593491695640}
   - component: {fileID: 4041243844159626416}
   m_Layer: 5
   m_Name: Controls
@@ -199,20 +198,6 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
---- !u!114 &2888755593491695640
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 941588715487083047}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4607392f1951548faa1d29cbda98a448, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DefaultSelection: {fileID: 0}
-  ForceSelection: 0
 --- !u!114 &4041243844159626416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -766,8 +751,7 @@ MonoBehaviour:
         m_MethodName: Play
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 4b8dc171ea53e4e9a9888deeadb024a1,
-            type: 3}
+          m_ObjectArgument: {fileID: 8300000, guid: 4b8dc171ea53e4e9a9888deeadb024a1, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
