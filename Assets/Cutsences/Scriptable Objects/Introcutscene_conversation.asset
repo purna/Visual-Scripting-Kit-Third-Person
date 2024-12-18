@@ -17,21 +17,20 @@ MonoBehaviour:
   - '<color=#397551>Dobby</color>: '
   dialogueList:
   - charactersListIndex: 1
-    dialogue: Can I deliver some presents this year?
+    dialogue: I swear, this dungeon's endless.
   - charactersListIndex: 0
-    dialogue: Alright, you can deliver <b><color=#B82F2C>one</color></b> present
+    dialogue: Nah, just bad map reading.
   - charactersListIndex: 1
-    dialogue: Hooray!
+    dialogue: "I\u2019m <color=#B82F2C>sure</color> we passed that trap door."
   - charactersListIndex: 0
-    dialogue: Take a present, go down the chimney and leave it under the tree.
+    dialogue: "Maybe it\u2019s hiding, like me after a fight."
   - charactersListIndex: 1
-    dialogue: Present. Chimney. Tree. Got it!
+    dialogue: So, you <color=#B82F2C>are</color>  afraid of goblins?
   - charactersListIndex: 0
-    dialogue: Then climb back up and set off a firework. I'll come pick you up.
+    dialogue: Only when they borrow my sword.
   - charactersListIndex: 1
-    dialogue: Set off the firework. Check!
+    dialogue: "You\u2019re impossible."
   - charactersListIndex: 0
-    dialogue: I've got 2 billion other presents to deliver, so don't mess this one
-      up.
+    dialogue: 'I prefer <color=#397551>impractical.</color> '
   - charactersListIndex: 1
-    dialogue: This is gonna be brilliant!
+    dialogue: Let's go!
