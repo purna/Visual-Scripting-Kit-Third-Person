@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu Win.unity
     guid: 1219ce3ac1c25409bbb830950bada2f2
   - enabled: 1
+    path: Assets/Scenes/Menu Cutscene.unity
+    guid: 09041235a0a2242eb8456820632c6149
+  - enabled: 1
     path: Assets/BoltKit_ThirdPerson/Scenes/Level01.unity
     guid: 936f7babf7a2b3248b47cb8b34e7bfd3
   - enabled: 1
