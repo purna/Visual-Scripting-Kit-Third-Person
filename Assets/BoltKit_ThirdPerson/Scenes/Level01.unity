@@ -1300,7 +1300,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 408730, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.081
+      value: 6.424
       objectReference: {fileID: 0}
     - target: {fileID: 408730, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2141,6 +2141,10 @@ PrefabInstance:
     - target: {fileID: 3581783022031336918, guid: da6274111082abb42a8e4ee97787690b, type: 3}
       propertyPath: m_Name
       value: KillFloor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6498750487555034909, guid: da6274111082abb42a8e4ee97787690b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
