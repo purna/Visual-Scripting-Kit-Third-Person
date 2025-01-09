@@ -1,4 +1,5 @@
-﻿
+﻿using System.Diagnostics;
+
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -27,8 +28,11 @@ public class GameOverFade : MonoBehaviour
         public float m_Duration = 1.0f;
 
         float m_Time;
-        bool m_GameOver;
-        public bool m_Won;
+
+        [SerializeField, Tooltip("Is game over?")]
+        public bool m_GameOver = false;
+        [SerializeField, Tooltip("Game is won.")]
+        public bool m_Won = false;
 
         void Start()
         {
@@ -55,6 +59,8 @@ public class GameOverFade : MonoBehaviour
 
         void OnGameOver(GameOverEvent evt)
         {
+            UnityEngine.Debug.Log("GameOver" + m_GameOver);
+            
             if (!m_GameOver)
             {
                 m_CanvasGroup.gameObject.SetActive(true);
